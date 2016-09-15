@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppCentrica Directory</string>
+    <string name="title_contact_detail">Contact Detail</string>
+    <string name="send_email">Send Email</string>
+</resources>

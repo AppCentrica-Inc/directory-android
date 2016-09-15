@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".ContactListActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- Toolbar for Contact List Activity -->
+        <android.support.design.widget.AppBarLayout
+            android:id="@+id/app_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        </android.support.design.widget.AppBarLayout>
+
+        <!-- Main list of contacts for Contact List Activity -->
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/contact_list"
+            android:name="com.appcentrica.directory.ContactListFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layoutManager="LinearLayoutManager"
+            tools:listitem="@layout/contact_list_content" />
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

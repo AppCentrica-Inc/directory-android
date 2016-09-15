@@ -1,0 +1,115 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.appcentrica.directory.ContactDetailActivity">
+
+
+    <!-- Collapsing toolbar in Contact Details Activity -->
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/app_bar_height"
+        android:fitsSystemWindows="true"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/toolbar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:toolbarId="@+id/toolbar">
+
+            <ImageView
+                android:id="@+id/detail_toolbar_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fitsSystemWindows="true"
+                android:scaleType="centerCrop"
+                android:transitionName="contactPictureTransition"
+                app:layout_collapseMode="parallax" />
+
+            <View
+                android:id="@+id/detail_toolbar_gradient"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fitsSystemWindows="true"
+                android:scaleType="centerCrop"
+                android:background="@drawable/gradient_black_transparent_up"
+                app:layout_collapseMode="parallax" />
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/detail_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+
+
+
+    <!-- Contact details (title, number, email, linkedIn) in Contact Details Activity -->
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/contact_detail_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="10dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/contact_detail_title"
+                style="@style/ContactDetailsTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_work_black_24dp" />
+
+            <TextView
+                android:id="@+id/contact_detail_number"
+                style="@style/ContactDetailsTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_call_black_24dp"/>
+
+            <TextView
+                android:id="@+id/contact_detail_email"
+                style="@style/ContactDetailsTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_email_black_24dp"/>
+
+            <TextView
+                android:id="@+id/contact_detail_linkedin"
+                style="@style/ContactDetailsTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_account_circle_black_24dp" />
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+
+    <!-- Floating action button to add to contacts in Contact Details Activity -->
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|start"
+        android:layout_margin="@dimen/fab_margin"
+        android:src="@drawable/ic_person_add_white_24dp"
+        app:layout_anchor="@+id/contact_detail_container"
+        app:layout_anchorGravity="top|end" />
+
+</android.support.design.widget.CoordinatorLayout>
