@@ -1,0 +1,356 @@
+{
+  "contacts":[
+    {
+      "name":"Ed Nemes",
+      "email":"ed.nemes@appcentrica.com",
+      "title":"President and CEO",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/ed-nemes/2/6a7/107",
+      "pictureUrl":"https://www.appcentrica.com/media/1192/people_ed.jpg?width=200&height=180"
+    },
+    {
+      "name":"Ken Kitamura",
+      "email":"ken.kitamura@appcentrica.com",
+      "title":"Chief Architect",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/kitamura",
+      "pictureUrl":"https://www.appcentrica.com/media/1193/people_ken.jpg?width=200&height=180"
+    },
+    {
+      "name":"Rob Lokinger",
+      "email":"rob.lokinger@appcentrica.com",
+      "title":"Director of Delivery",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/rob-lokinger/0/253/5b9",
+      "pictureUrl":"https://www.appcentrica.com/media/1194/people_rob.jpg?width=200&height=180"
+    },
+    {
+      "name":"Andrew Beattie",
+      "email":"andrew.beattie@appcentrica.com",
+      "title":"Sales Director",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/andrew-beattie-5973882",
+      "pictureUrl":"https://www.appcentrica.com/media/1326/andrewb.jpg"
+    },
+    {
+      "name":"Greg Dimmock",
+      "email":"greg.dimmock@appcentrica.com",
+      "title":"Director, Salesforce Practice",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/gregory-dimmock/0/833/a72",
+      "pictureUrl":"https://www.appcentrica.com/media/1195/people_greg.jpg?width=200&height=180"
+    },
+    {
+      "name":"Andrew Sheppard",
+      "email":"andrew.sheppard@appcentrica.com",
+      "title":"Solution Architect",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/andrew-sheppard/56/186/460",
+      "pictureUrl":"https://www.appcentrica.com/media/1197/people_andrew.jpg?width=200&height=180"
+    },
+    {
+      "name":"Jack Wong",
+      "email":"jack.wong@appcentrica.com",
+      "title":"Solution Architect",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/jack-wong/14/b80/640",
+      "pictureUrl":"https://www.appcentrica.com/media/1199/people_jack.jpg?width=200&height=180"
+    },
+    {
+      "name":"Mike Robertson",
+      "email":"mike.robertson@appcentrica.com",
+      "title":"Application Maintenance Practice Lead",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/michaelgrobertson",
+      "pictureUrl":"https://www.appcentrica.com/media/1200/people_mike.jpg?width=200&height=180"
+    },
+    {
+      "name":"Gary Shearer",
+      "email":"gary.shearer@appcentrica.com",
+      "title":"Project Rescue Practice Lead",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/garyshearer",
+      "pictureUrl":"https://www.appcentrica.com/media/1171/people_gary.jpg?width=200&height=180"
+    },
+    {
+      "name":"Boris Shuster",
+      "email":"boris.shuster@appcentrica.com",
+      "title":"Information Management Practice Lead",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/boris-shuster/1/88b/b02",
+      "pictureUrl":"https://www.appcentrica.com/media/1198/people_boris.jpg?width=200&height=180"
+    },
+    {
+      "name":"Sadra Abrishamkar",
+      "email":"sadra.abrishamkar@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/sadra-abrishamkar/42/91/96",
+      "pictureUrl":"https://www.appcentrica.com/media/1246/sadra.png?width=200&height=180"
+    },
+    {
+      "name":"Kahtaf Alam",
+      "email":"kahtaf.alam@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/kahtaf-alam-1591337b",
+      "pictureUrl":"https://www.appcentrica.com/media/1293/kahtaf.jpg?width=0&height=0"
+    },
+    {
+      "name":"Jessica Brown",
+      "email":"jessica.brown@appcentrica.com",
+      "title":"Consultant",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/jessica-brown/66/40b/137",
+      "pictureUrl":"https://www.appcentrica.com/media/1201/people_jessb.jpg?width=200&height=180"
+    },
+    {
+      "name":"Henrique Cabral",
+      "email":"henrique.cabral@appcentrica.com",
+      "title":"Senior Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/henrique-cabral-108020a0/en",
+      "pictureUrl":"https://www.appcentrica.com/media/1330/henrique.jpg?width=350&height=314"
+    },
+    {
+      "name":"Juliana Chung",
+      "email":"juliana.chung@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/julianachung",
+      "pictureUrl":"https://www.appcentrica.com/media/1306/juliana.jpg?width=0&height=0"
+    },
+    {
+      "name":"Dennis Courneyea",
+      "email":"dennis.courneyea@appcentrica.com",
+      "title":"Senior Developer",
+      "number":"--",
+      "linkedIn":"https://www.linkedin.com/in/denniscourneyea",
+      "pictureUrl":"https://www.appcentrica.com/media/1305/dennis.jpg?width=0&height=0"
+    },
+    {
+      "name":"Patrick Cuyegkeng",
+      "email":"patrick.cuyegkeng@appcentrica.com",
+      "title":"Senior Consultant",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/patrickcuyegkeng",
+      "pictureUrl":"https://www.appcentrica.com/media/1203/people_patrick.jpg?width=200&height=180"
+    },
+    {
+      "name":"Hitha Dinesh",
+      "email":"hitha.dinesh@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/hitha-dinesh-83452b4b",
+      "pictureUrl":"https://www.appcentrica.com/media/1294/hitha.jpg?width=0&height=0"
+    },
+    {
+      "name":"Keely Duke",
+      "email":"keely.duke@appcentrica.com",
+      "title":"Consultant",
+      "number":"--",
+      "linkedIn":"https://www.linkedin.com/in/keelyduke",
+      "pictureUrl":"https://www.appcentrica.com/media/1357/keely.jpg?width=350&height=314"
+    },
+    {
+      "name":"Riley Duke",
+      "email":"riley.duke@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/riley-duke/23/561/82",
+      "pictureUrl":"https://www.appcentrica.com/media/1205/people_riley.jpg?width=200&height=180"
+    },
+    {
+      "name":"Chaveen Ekanayake",
+      "email":"chaveen.ekanayake@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/chaveen-ekanayake/25/a97/1b4",
+      "pictureUrl":"https://www.appcentrica.com/media/1206/people_chaveen.jpg?width=200&height=180"
+    },
+    {
+      "name":"Matthew Ferguson",
+      "email":"matthew.ferguson@appcentrica.com",
+      "title":"Data Architect",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/matthewjferguson",
+      "pictureUrl":"https://www.appcentrica.com/media/1207/people_matthew.jpg?width=200&height=180"
+    },
+    {
+      "name":"David Glow",
+      "email":"david.glow@appcentrica.com",
+      "title":"Consultant",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/david-glow-b2286445",
+      "pictureUrl":"https://www.appcentrica.com/media/1356/david.jpg?width=350&height=314"
+    },
+    {
+      "name":"Douglas Ho",
+      "email":"douglas.ho@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/douglas-ho/37/a40/636",
+      "pictureUrl":"https://www.appcentrica.com/media/1208/people_douglas.jpg?width=200&height=180"
+    },
+    {
+      "name":"Hala Issa",
+      "email":"hala.issa@appcentrica.com",
+      "title":"Consultant",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/hala-issa-22888a5",
+      "pictureUrl":"https://www.appcentrica.com/media/1340/hala2.jpg?width=350&height=314"
+    },
+    {
+      "name":"Bahareh Jafari",
+      "email":"bahareh.jafari@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/bahareh-jafari-a8911648",
+      "pictureUrl":"https://www.appcentrica.com/media/1329/bahareh.jpg?width=350&height=314"
+    },
+    {
+      "name":"Akshay Jain",
+      "email":"akshay.jain@appcentrica.com",
+      "title":"Solution Architect",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/ajaincan",
+      "pictureUrl":"https://www.appcentrica.com/media/1341/akshay.jpg?width=350&height=314"
+    },
+    {
+      "name":"Karen Klug",
+      "email":"karen.klug@appcentrica.com",
+      "title":"Project Manager",
+      "number":"--",
+      "linkedIn":"https://www.linkedin.com/in/karen-klug-2072391",
+      "pictureUrl":"https://www.appcentrica.com/media/1295/karen.jpg"
+    },
+    {
+      "name":"Cecil Lew",
+      "email":"cecil.lew@appcentrica.com",
+      "title":"Solution Architect",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/cecil-lew/0/aa5/b46",
+      "pictureUrl":"https://www.appcentrica.com/media/1235/people_cecil.png?width=201&height=181"
+    },
+    {
+      "name":"Arnold Mo",
+      "email":"arnold.mo@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://www.appcentrica.com/who-we-are/ca.linkedin.com/pub/zicong-mo/65/480/473/en",
+      "pictureUrl":"https://www.appcentrica.com/media/1233/people_arnold.jpg?width=200&height=180"
+    },
+    {
+      "name":"Hadrian Ng",
+      "email":"hadrian.ng@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/hadrian-ng/33/b06/313",
+      "pictureUrl":"https://www.appcentrica.com/media/1210/people_hadrain.jpg?width=200&height=180"
+    },
+    {
+      "name":"Jessica Ooi",
+      "email":"jessica.ooi@appcentrica.com",
+      "title":"Consultant",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/jessicaooi",
+      "pictureUrl":"https://www.appcentrica.com/media/1211/people_jesso.jpg?width=200&height=180"
+    },
+    {
+      "name":"Thiago Primerano",
+      "email":"thiago.primerano@appcentrica.com",
+      "title":"Senior Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/thiagoprimerano",
+      "pictureUrl":"https://www.appcentrica.com/media/1281/people-thiago.png?width=200&height=180"
+    },
+    {
+      "name":"Sasha Rusetskaya",
+      "email":"sasha.rusetskaya@appcentrica.com",
+      "title":"Senior UX Designer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/sasharusetskaya",
+      "pictureUrl":"https://www.appcentrica.com/media/1212/people_sasha.jpg?width=200&height=180"
+    },
+    {
+      "name":"Tomomi Sato",
+      "email":"tomomi.sato@appcentrica.com",
+      "title":"Consultant",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/sato-tomomi-a98878121/en",
+      "pictureUrl":"https://www.appcentrica.com/media/1354/tomomi.jpg?width=350&height=314"
+    },
+    {
+      "name":"Hamed Shirazi",
+      "email":"hamed.shirazi@appcentrica.com",
+      "title":"Senior Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/hamed-shirazi-04651514",
+      "pictureUrl":"https://www.appcentrica.com/media/1292/hamad.jpg?width=350&height=314"
+    },
+    {
+      "name":"Naba Siddiqui",
+      "email":"naba.siddiqui@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://www.linkedin.com/profile/view?id=AAkAAAu0Rx0Bfsw1q40fW0Q5y4VZa12c6Up-FsM",
+      "pictureUrl":"https://www.appcentrica.com/media/1338/naba.jpg?width=350&height=314"
+    },
+    {
+      "name":"Aizaz Siddiqi",
+      "email":"aizaz.siddiqi@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://www.appcentrica.com/who-we-are/",
+      "pictureUrl":"https://www.appcentrica.com/media/1328/aizaz.jpg"
+    },
+    {
+      "name":"Dejan Stojkovic",
+      "email":"dejan.stojkovic@appcentrica.com",
+      "title":"Senior Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/dejan-stojkovic/0/b44/649",
+      "pictureUrl":"https://www.appcentrica.com/media/1213/people_dejan.jpg?width=200&height=180"
+    },
+    {
+      "name":"Michael Sun",
+      "email":"michael.sun@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/michaelhansun/en",
+      "pictureUrl":"https://www.appcentrica.com/media/1232/people_michael.jpg?width=200&height=180"
+    },
+    {
+      "name":"Farah Tamachi",
+      "email":"farah.tamachi@appcentrica.com",
+      "title":"Senior UX Designer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/farah-tamachi/33/4bb/105",
+      "pictureUrl":"https://www.appcentrica.com/media/1214/people_farah.jpg?width=200&height=180"
+    },
+    {
+      "name":"Asadullah Tanvir",
+      "email":"asadullah.tanvir@appcentrica.com",
+      "title":"Senior Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/asadullah-tanvir/15/28b/128",
+      "pictureUrl":"https://www.appcentrica.com/media/1215/people_tanvir.jpg?width=200&height=180"
+    },
+    {
+      "name":"Kai Wang",
+      "email":"kai.wang@appcentrica.com",
+      "title":"Senior Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/pub/kai-wang/11/431/312",
+      "pictureUrl":"https://www.appcentrica.com/media/1216/people_kai.jpg?width=200&height=180"
+    },
+    {
+      "name":"Michael Yu",
+      "email":"michael.yu@appcentrica.com",
+      "title":"Developer",
+      "number":"--",
+      "linkedIn":"https://ca.linkedin.com/in/michael-yu-86b21636",
+      "pictureUrl":"https://www.appcentrica.com/media/1296/michaelyu.jpg?width=0&height=0"
+    }
+  ]
+}
